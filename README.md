@@ -1,2 +1,2 @@
 # my_computer
-building a modern computer from scratch
+building a modern computer from first principles
